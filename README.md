@@ -13,19 +13,8 @@
 
 2. Install the required packages:
    ```
-   npm install express socket.io
+   npm install express socket.io moment
    ```
-
-### Project Structure:
-
-```
-- public/
-  - index.html
-  - styles.css
-  - main.js
-- server.js
-- README.md
-```
 
 ### Server-Side Implementation (server.js):
 
